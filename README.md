@@ -1,20 +1,14 @@
-![id-riis](https://activity-graph.herokuapp.com/graph?username=muath-ye&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph)
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
-<div align='center' style="display: flex;justify-content: center;">
-<img height='28'  src="https://camo.githubusercontent.com/44f28101d7497ced91d960ce483606ecb09d757dddf3f857a71f615a6703a007/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d6d756174682d7965267265706f3d6d756174682d7965" />
-</div>
+<!-- 2024 07 07 | 10:41 - 1 -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ByMuath&label=Visits&color=0e75b6&style=flat" alt="Since 7th July 2024" />
+    <img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg" alt="Total time coded since May 26 2022" />
+    <img src="https://user-badge.committers.top/yemen/muath-ye.svg?username=muath-ye&color=0e75b6&style=flat" alt="ByMuath" />
+</p>
 
-<!--
-**jubilant-journey/jubilant-journey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A brief about me on the terminal:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bs
+npx muath
+```
