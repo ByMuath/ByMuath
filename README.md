@@ -10,5 +10,7 @@
 ## A brief about me on the terminal:
 
 ```bs
+
 npx muath
+
 ```
