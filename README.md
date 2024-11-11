@@ -1,5 +1,7 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
+![Mario_Gameplay](https://github.com/user-attachments/assets/05983b17-76af-4432-8272-7e90903f5e9d)
+
 <!-- 2024 07 07 | 10:41 - 1 -->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ByMuath&label=Visits&color=0e75b6&style=flat" alt="Since 7th July 2024" />
